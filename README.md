@@ -40,13 +40,6 @@ The dataset includes environmental measurements such as solar irradiance, temper
 - **Wind Rose**: Wind speed and direction distribution.
 - **Bubble Charts**: Multi-variable relationships between solar radiation, temperature, and humidity.
 
-### 4. Streamlit Dashboard
-Develop an interactive dashboard to visualize the data insights:
-- Dynamic filtering by time and conditions.
-- Interactive plots for solar trends and wind conditions.
-
----
-
 ## Setup and Installation
 
 ### Prerequisites
