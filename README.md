@@ -45,7 +45,6 @@ The dataset includes environmental measurements such as solar irradiance, temper
 ### Prerequisites
 - Python 3.8 or later
 - Required Python libraries (install via `requirements.txt`):
-  ```bash
-  pip install -r requirements.txt
+  
 
 
